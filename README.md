@@ -7,7 +7,7 @@ Responsible for developing 3D Model & Design Drawings, and Coordinate with other
 
 ## Work Experience
 **Freelance Moeler @ FTF-USA (_August 2021 - March 2023_)**
--Uncovered and corrected missing step in production
+- Uncovered and corrected missing 
  
 #Roles & Responsibilities:
 •	Creating BIM models and various building types using Revit/Tekla and MWF, utilizing BIM360 design.
