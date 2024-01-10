@@ -1,9 +1,7 @@
 # Structural BIM Modeler/Co-ordinator
 
 #### Technical Skills: Revit,Tekla,AutoCAD,MWF,Bluebeam
-(***),
-(---),
-(___)
+
 ### About me
 Responsible for developing 3D Model & Design Drawings, and Coordinate with other discipline. Professional experienced over 15 years in India and Middle East in MNC Engineering firms. Substantial understanding of building information modeling process and REVIT/TEKLA. Work confidently and practical skills in REVIT/TEKLA, MWF and AutoCAD. Adaptability to work in as a team player. Familiar with construction practices and materials. Has profound experience of working on modeling of different types of Structures like Steel Structures, Pre-cast, CFS Structures and Wooden Structures. 
 
@@ -11,21 +9,21 @@ Responsible for developing 3D Model & Design Drawings, and Coordinate with other
 **Freelance Moeler @ FTF-USA (_August 2021 - March 2023_)**
 
 ####Roles & Responsibilities:
-•	Creating BIM models and various building types using Revit/Tekla and MWF, utilizing BIM360 design.
-•	Generating shop drawings for actual construction documents.
-•	Export machine files.
+- Creating BIM models and various building types using Revit/Tekla and MWF, utilizing BIM360 design.
+- Generating shop drawings for actual construction documents.
+- Export machine files.
 >
 **Executive Modeler @ Katerra, Pune-India (_January 2020 - June 2021_)**
 >
 #### Roles & Responsibilities:
-•	Create structural BIM models and construction documents for a variety of building types using Revit, MWF software.
-•	Create model views, building plans and layouts, sketches, and construction details.
-•	Coordinate with structural engineers to gather building design, layout, structural details.
-•	Design and troubleshoot standardized steel framing conditions with project specific requests.
-•	Generate and Verify fabrication drawings, Bill of Materials, and reports.
-•	Understanding of load-bearing framing (in Metal and Wood).
-•	Use of BIM360 design to optimize modeling across offices and act as gatekeeper for incoming/outgoing models/documentation.
-•	Interest in new BIM technologies and Automation process.
+- Create structural BIM models and construction documents for a variety of building types using Revit, MWF software.
+- Create model views, building plans and layouts, sketches, and construction details.
+- Coordinate with structural engineers to gather building design, layout, structural details.
+- Design and troubleshoot standardized steel framing conditions with project specific requests.
+- Generate and Verify fabrication drawings, Bill of Materials, and reports.
+- Understanding of load-bearing framing (in Metal and Wood).
+- Use of BIM360 design to optimize modeling across offices and act as gatekeeper for incoming/outgoing models/documentation.
+- Interest in new BIM technologies and Automation process.
 >
 **BIM Modeler/Coordinator @ Meinhardt Group, Doha-Qatar (_December 2018 - June 2019_)** 
 >		
