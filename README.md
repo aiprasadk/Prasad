@@ -2,7 +2,7 @@
 
 #### Technical Skills: Revit,Tekla,AutoCAD,MWF,Navis works,Bluebeam
 
-## About me
+### About me
 Responsible for developing 3D Model & Design Drawings, and Coordinate with other discipline. Professional experienced over 15 years in India and Middle East in MNC Engineering firms. Substantial understanding of building information modeling process and REVIT/TEKLA. Work confidently and practical skills in REVIT/TEKLA, MWF and AutoCAD. Adaptability to work in as a team player. Familiar with construction practices and materials. Has profound experience of working on modeling of different types of Structures like Steel Structures, Pre-cast, CFS Structures and Wooden Structures. 
 
 ## Work Experience
