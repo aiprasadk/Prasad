@@ -1,19 +1,21 @@
-# Structural BIM Modeler/Co-ordinator
+# Structural BIM Modeler
 
 #### Tech Skills: Revit,Tekla,AutoCAD,MWF,Bluebeam
-(***),(---),(___).
+(***),
+(---),
+(___).
 ### About me
 Responsible for developing 3D Model & Design Drawings, and Coordinate with other discipline. Professional experienced over 15 years in India and Middle East in MNC Engineering firms. Substantial understanding of building information modeling process and REVIT. Work confidently and practical skills in REVIT, MWF and AutoCAD. Adaptability to work in as a team player. Familiar with construction practices and materials. Has profound experience of working on modeling of different types of Structures like Steel Structures, Pre-cast, CFS Structures and Wooden Structures. 
 
-## Work Experience
-**Freelance Moeler @ FTF-USA (_August 2021 - March 2023_)**
+## WORK EXPERIENCE
+**Freelance Moeler @ FTF-USA (_Aug 2021 - Mar 2023_)**
 
 #### Roles & Responsibilities:
 - Creating BIM models and various building types using Revit and MWF, utilizing BIM360 design.
 - Generating shop drawings for actual construction documents.
 - Export machine files.
 
-**Executive Modeler @ Katerra, Pune-India (_January 2020 - June 2021_)**
+**Executive Modeler @ Katerra, Pune-India (_Jan 2020 - Jun 2021_)**
 
 #### Roles & Responsibilities:
 - Created structural BIM models and construction documents for a variety of building types using Revit, MWF software. 
@@ -25,7 +27,7 @@ Responsible for developing 3D Model & Design Drawings, and Coordinate with other
 - Use of BIM360 design to optimize modeling across offices and act as gatekeeper for incoming/outgoing models/documentation. 
 - Interested in new BIM technologies and Automation process.
 
-**BIM Modeler/Coordinator @ Meinhardt Group, Doha-Qatar (_December 2018 - June 2019_)** 
+**BIM Modeler/Coordinator @ Meinhardt Group, Doha-Qatar (_Dec 2018 - Jun 2019_)** 
 	
 #### Roles & Responsibilities:
 - Created structural BIM models and construction documents for a variety of building types using Revit, including commercial construction. 
@@ -36,7 +38,7 @@ Responsible for developing 3D Model & Design Drawings, and Coordinate with other
 - Annotated Sections and Details project up to (LOD-300).
 
 
-**REVIT Operator @ AEB, Doha-Qatar (_January 2018 - December 2018_)** 
+**REVIT Operator @ AEB, Doha-Qatar (_Jan 2018 - Dec 2018_)** 
 
 #### Roles & Responsibilities: 
 - BIM execution of Qatar Rails projects from various inputs from design development (DD) stage. 
@@ -47,7 +49,7 @@ Responsible for developing 3D Model & Design Drawings, and Coordinate with other
 - Revit model split and up-gradation according to BIM needs. Also, linking different discipline Revit models and clash resolve. 
 - Collaborated with project manager and field leads.
 
-**Structural Revit Modeler @ ADS, Pune-India (_May 2014 - December 2017_)** 
+**Structural Revit Modeler @ ADS, Pune-India (_May 2014 - Dec 2017_)** 
 
 #### Roles & Responsibilities: 
 - Experienced projects up to LOD-400. 
@@ -61,7 +63,7 @@ Responsible for developing 3D Model & Design Drawings, and Coordinate with other
 - Developed 3D model as per Gravity Design and Lateral Design information.
 - Created Schedules and connection details.
 
-**Desinger (Precast) @ Neilsoft, Pune-India (_February 2011 - February 2014_)** 
+**Desinger (Precast) @ Neilsoft, Pune-India (_Feb 2011 - Feb 2014_)** 
 
 #### Roles & Responsibilities:
 - Check precast layout drawings and fabrication drawings for accuracy and construct ability. 
@@ -75,7 +77,7 @@ Responsible for developing 3D Model & Design Drawings, and Coordinate with other
 - Knowledge of originating the drawing as per customer standards. 
 - Developed as Build drawing at end of project and submit final soft copy to client.
 
-**Jr.Detailer (R.C.C.) @ J+W Consultant, Pune-India (_June 2007 - January 2011_)** 
+**Jr.Detailer (R.C.C.) @ J+W Consultant, Pune-India (_Jun 2007 - Jan 2011_)** 
 
 #### Roles & Responsibilities:
 - Created Columns, Footing, Beams, Slab, Foundation drawings. 
@@ -89,28 +91,30 @@ Responsible for developing 3D Model & Design Drawings, and Coordinate with other
 - Prepared RCC Typical details. Foundation details, Retaining wall details, Beam details, Column details. 
 - Developed RCC plan, sections, and elevations.
 
-## Education
-**MASTER OF ARTS, SHIVAJI UNIVERSITY, KOLAHPUR-INDIA** 
-**(_APRIL 2005_)**
-**Specialization in Marathi**
+## EDUCATION
+*MASTER OF ARTS, SHIVAJI UNIVERSITY, KOLAHPUR-INDIA* 
+*(_APRIL 2005_)*
+*Specialization in Marathi*
 
-**BACHELOR OF ARTS, SHIVAJI UNIVERSITY, KOLAHPUR-INDIA** 
-**(_MARCH 2003_)**
-**Specialization in Political Science, Economics, Sociology**
+*BACHELOR OF ARTS, SHIVAJI UNIVERSITY, KOLAHPUR-INDIA* 
+*(_MARCH 2003_)*
+*Specialization in Political Science, Economics, Sociology*
 
-## Additional Skills
-|---|---|
+## ADDITIONAL SKILLS
+
 |Analytical thinking|
 |Planning in attention to details research|
 |Communication skill (written & verbal)|
+|---|---|
 |Hardworking|
 |Willingness to learn new things|
 |Troubleshooting towards problem|
 
 ## CERTIFICATES
-|---|
+
 |AutoCAD 2009|
 |Spoken English B1 Level|
+|---|
 |Autodesk Revit Strucute-2012|
 
 
