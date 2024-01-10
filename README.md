@@ -1,14 +1,13 @@
 # Structural BIM Modeler
 
 #### Tech Skills: Revit,Tekla,AutoCAD,MWF,Bluebeam
-(***),
 (---),
-(___).
+
 ### About me
 Responsible for developing 3D Model & Design Drawings, and Coordinate with other discipline. Professional experienced over 15 years in India and Middle East in MNC Engineering firms. Substantial understanding of building information modeling process and REVIT. Work confidently and practical skills in REVIT, MWF and AutoCAD. Adaptability to work in as a team player. Familiar with construction practices and materials. Has profound experience of working on modeling of different types of Structures like Steel Structures, Pre-cast, CFS Structures and Wooden Structures. 
 
 ## WORK EXPERIENCE
-**Freelance Moeler @ FTF-USA (_Aug 2021 - Mar 2023_)**
+**Freelance Moeler @ Client FTF-USA (_Aug 2021 - Mar 2023_)**
 
 #### Roles & Responsibilities:
 - Creating BIM models and various building types using Revit and MWF, utilizing BIM360 design.
@@ -93,29 +92,26 @@ Responsible for developing 3D Model & Design Drawings, and Coordinate with other
 
 ## EDUCATION
 *MASTER OF ARTS, SHIVAJI UNIVERSITY, KOLAHPUR-INDIA* 
-*(_APRIL 2005_)*
+*APRIL 2005*
 *Specialization in Marathi*
 
 *BACHELOR OF ARTS, SHIVAJI UNIVERSITY, KOLAHPUR-INDIA* 
-*(_MARCH 2003_)*
+*MARCH 2003*
 *Specialization in Political Science, Economics, Sociology*
 
 ## ADDITIONAL SKILLS
-
-|Analytical thinking|
-|Planning in attention to details research|
-|Communication skill (written & verbal)|
 |---|---|
-|Hardworking|
-|Willingness to learn new things|
-|Troubleshooting towards problem|
+|Analytical thinking|							|Hardworking|
+|Planning in attention to details research|				|Willingness to learn new things|
+|Communication skill (written & verbal)|				|Troubleshooting towards problem|
+
 
 ## CERTIFICATES
-
-|AutoCAD 2009|
-|Spoken English B1 Level|
 |---|
-|Autodesk Revit Strucute-2012|
+|AutoCAD 2009|								|Autodesk Revit Strucute-2012|
+|Spoken English B1 Level|
+
+
 
 
 
