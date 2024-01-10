@@ -14,9 +14,9 @@ Responsible for developing 3D Model & Design Drawings, and Coordinate with other
 •	Creating BIM models and various building types using Revit/Tekla and MWF, utilizing BIM360 design.
 •	Generating shop drawings for actual construction documents.
 •	Export machine files.
-
+>
 **Executive Modeler @ Katerra, Pune-India (_January 2020 - June 2021_)**
-
+>
 #### Roles & Responsibilities:
 •	Create structural BIM models and construction documents for a variety of building types using Revit, MWF software.
 •	Create model views, building plans and layouts, sketches, and construction details.
@@ -26,9 +26,9 @@ Responsible for developing 3D Model & Design Drawings, and Coordinate with other
 •	Understanding of load-bearing framing (in Metal and Wood).
 •	Use of BIM360 design to optimize modeling across offices and act as gatekeeper for incoming/outgoing models/documentation.
 •	Interest in new BIM technologies and Automation process.
-
+>
 **BIM Modeler/Coordinator @ Meinhardt Group, Doha-Qatar (_December 2018 - June 2019_)** 
-		
+>		
 #### Roles & Responsibilities:
 •	Create structural BIM models and construction documents for a variety of building types using Revit, including commercial construction.
 •	Create model views, building plans and layouts, sketches, and construction details.
@@ -36,9 +36,9 @@ Responsible for developing 3D Model & Design Drawings, and Coordinate with other
 •	Developing Schedule for Structural Columns, Framing, Foundations and Legends
 •	Export CAD and PDF drawings as per client requirement
 •	Annotating Sections and Details project up to (LOD-300)
-
+>
 **REVIT Operator @ AEB, Doha-Qatar (_January 2018 - December 2018_)** 
-
+>
 #### Roles & Responsibilities: 
 •	BIM execution of Qatar Rails projects from various inputs from design development (DD) stage
 •	Preparing Structural design model views and drawings as per BIM Guidelines
@@ -47,9 +47,9 @@ Responsible for developing 3D Model & Design Drawings, and Coordinate with other
 •	Established and executed BIM project workflow for ensuring quality.
 •	Revit model split and up-gradation according to BIM needs. Also, linking different discipline Revit models and clash resolve.
 •	Collaborate with project manager and field leads.
-
+>
 **Structural Revit Modeler @ ADS, Pune-India (_May 2014 - December 2017_)** 
-
+>
 #### Roles & Responsibilities: 
 •	Experienced projects up to LOD-400.
 •	Preparing of BIM Models and drawings of buildings, Concrete Structures, Steel Structures frames.
@@ -61,9 +61,9 @@ Responsible for developing 3D Model & Design Drawings, and Coordinate with other
 •	Create Structural Schematic Design Model.
 •	Develop 3D model as per Gravity Design and Lateral Design information.
 •	Create Schedules and connection details.
-
+>
 **Desinger (Precast) @ Neilsoft, Pune-India (_February 2011 - February 2014_)** 
-
+>
 #### Roles & Responsibilities:
 •	Check precast layout drawings and fabrication drawings for accuracy and construct ability.
 •	Check quantities and bill of materials.
@@ -74,9 +74,9 @@ Responsible for developing 3D Model & Design Drawings, and Coordinate with other
 •	Calculating quantity of steels for reinforced concrete and bar bending schedule.
 •	Adhering to codes and standards, preparation of drawings reports as per project requirements in compliance with company standards.
 •	Knowledge of originating the drawing as per customer standards.
-
+>
 **Jr.Detailer (R.C.C.) @ J+W Consultant, Pune-India (_June 2007 - January 2011_)** 
-
+>
 #### Roles & Responsibilities:
 •	Create Columns, Footing, Beams, Slab, Foundation drawings.
 •	Preparing Structural working drawings as per Engineer’s Guidelines
