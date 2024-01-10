@@ -1,23 +1,23 @@
 # Structural BIM Modeler/Co-ordinator
-Technical Skills: Revit,Tekla,AutoCAD, MWF, Navisworks, Bluebeam, Projectwise
+Technical Skills: Revit,Tekla,AutoCAD, MWF, Navisworks, Bluebeam, 
 
 About me
 Responsible for developing 3D Model & Design Drawings, and Coordinate with other discipline. Professional experienced over 15 years in India and Middle East in MNC Engineering firms. Substantial understanding of building information modeling process and REVIT/TEKLA. Work confidently and practical skills in REVIT/TEKLA, MWF and AutoCAD. Adaptability to work in as a team player. Familiar with construction practices and materials. Has profound experience of working on modeling of different types of Structures like Steel Structures, Pre-cast, CFS Structures and Wooden Structures.
 
-  Work Experience
-Freelance Modeler (client FTF, USA)   
+###  Work Experience
+#Freelance Modeler (client FTF, USA)   
 Aug 2021 – Mar 2023
  
-Roles & Responsibilities:
+#Roles & Responsibilities:
 •	Creating BIM models and various building types using Revit/Tekla and MWF, utilizing BIM360 design.
 •	Generating shop drawings for actual construction documents.
 •	Export machine files.
 
 
-Executive Modeler (Katerra, Pune-India) 
+#Executive Modeler (Katerra, Pune-India) 
 Jan 2020 – June 2021
 
-Roles & Responsibilities:
+#Roles & Responsibilities:
 •	Create structural BIM models and construction documents for a variety of building types using Revit, MWF software.
 •	Create model views, building plans and layouts, sketches, and construction details.
 •	Coordinate with structural engineers to gather building design, layout, structural details.
@@ -27,10 +27,10 @@ Roles & Responsibilities:
 •	Use of BIM360 design to optimize modeling across offices and act as gatekeeper for incoming/outgoing models/documentation.
 •	Interest in new BIM technologies and Automation process.
 
-BIM Modeler/Coordinator (Meinhardt Group, Doha-Qatar) 
+#BIM Modeler/Coordinator (Meinhardt Group, Doha-Qatar) 
 Dec 2018 – June 2019		
 
-Roles & Responsibilities:
+#Roles & Responsibilities:
 •	Create structural BIM models and construction documents for a variety of building types using Revit, including commercial construction.
 •	Create model views, building plans and layouts, sketches, and construction details.
 •	Coordinate with structural engineers to gather building dimensions, drawing requirements, structural details and drawing markups.
@@ -39,10 +39,10 @@ Roles & Responsibilities:
 •	Annotating Sections and Details project up to (LOD-300)
 
 
-REVIT Operator (AEB, Doha-Qatar) 
+#REVIT Operator (AEB, Doha-Qatar) 
 Jan 2018 – Dec 2018	
 
-Roles & Responsibilities: 
+#Roles & Responsibilities: 
 •	BIM execution of Qatar Rails projects from various inputs from design development (DD) stage
 •	Preparing Structural design model views and drawings as per BIM Guidelines
 •	Creation of Structural design details in REVIT according to standards
@@ -51,10 +51,10 @@ Roles & Responsibilities:
 •	Revit model split and up-gradation according to BIM needs. Also, linking different discipline Revit models and clash resolve.
 •	Collaborate with project manager and field leads.
 
-Structural REVIT Modeler (ADS, Pune-India)
+#Structural REVIT Modeler (ADS, Pune-India)
 May 2014 – Dec 2017	
 
-Roles & Responsibilities: 
+#Roles & Responsibilities: 
 •	Experienced projects up to LOD-400.
 •	Preparing of BIM Models and drawings of buildings, Concrete Structures, Steel Structures frames.
 •	Develop engineer’s concept into accurate models and drawings through direct comminutions.
@@ -67,10 +67,10 @@ Roles & Responsibilities:
 •	Create Schedules and connection details.
 
 
-Designer (Precast) (Neilsoft, Pune-India) 
+#Designer (Precast) (Neilsoft, Pune-India) 
 Feb 2011 – Feb 2014	
 
-Roles & Responsibilities:
+#Roles & Responsibilities:
 •	Check precast layout drawings and fabrication drawings for accuracy and construct ability.
 •	Check quantities and bill of materials.
 •	Coordinate with the design team and precast plant personnel.
@@ -82,10 +82,10 @@ Roles & Responsibilities:
 •	Knowledge of originating the drawing as per customer standards.
 
 
-Jr. Detailer (R.C.C.) (J+W Consultant, Pune-India) 
+#Jr. Detailer (R.C.C.) (J+W Consultant, Pune-India) 
 June 2007 – Jan 2011	 
 
-Roles & Responsibilities:
+#Roles & Responsibilities:
 •	Create Columns, Footing, Beams, Slab, Foundation drawings.
 •	Preparing Structural working drawings as per Engineer’s Guidelines
 •	To prepare RCC drawing for Boiler area foundation, Powerhouse Foundations, Canteen Building, ID Fan foundations
