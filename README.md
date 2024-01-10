@@ -1,12 +1,13 @@
 # Structural BIM Modeler/Co-ordinator
-Technical Skills: Revit,Tekla,AutoCAD, MWF, Navisworks, Bluebeam, 
 
-About me
-Responsible for developing 3D Model & Design Drawings, and Coordinate with other discipline. Professional experienced over 15 years in India and Middle East in MNC Engineering firms. Substantial understanding of building information modeling process and REVIT/TEKLA. Work confidently and practical skills in REVIT/TEKLA, MWF and AutoCAD. Adaptability to work in as a team player. Familiar with construction practices and materials. Has profound experience of working on modeling of different types of Structures like Steel Structures, Pre-cast, CFS Structures and Wooden Structures.
+#### Technical Skills: Revit,Tekla,AutoCAD,MWF,Navis works,Bluebeam
 
-###  Work Experience
-#Freelance Modeler (client FTF, USA)   
-Aug 2021 – Mar 2023
+## About me
+Responsible for developing 3D Model & Design Drawings, and Coordinate with other discipline. Professional experienced over 15 years in India and Middle East in MNC Engineering firms. Substantial understanding of building information modeling process and REVIT/TEKLA. Work confidently and practical skills in REVIT/TEKLA, MWF and AutoCAD. Adaptability to work in as a team player. Familiar with construction practices and materials. Has profound experience of working on modeling of different types of Structures like Steel Structures, Pre-cast, CFS Structures and Wooden Structures. 
+
+## Work Experience
+**Freelance Moeler @ FTF-USA (_August 2021 - March 2023_)**
+-Uncovered and corrected missing step in production
  
 #Roles & Responsibilities:
 •	Creating BIM models and various building types using Revit/Tekla and MWF, utilizing BIM360 design.
