@@ -92,28 +92,28 @@ To obtain a challenging role as a Professional Structural BIM Modeler/Coordinato
 
 ## EDUCATION
 *MASTER OF ARTS, SHIVAJI UNIVERSITY, KOLAHPUR-INDIA* 
-*APRIL 2005*
+*(_APRIL 2005_)*
 *Specialization in Marathi*
 
 *BACHELOR OF ARTS, SHIVAJI UNIVERSITY, KOLAHPUR-INDIA* 
-*MARCH 2003*
+*(_MARCH 2003_)*
 *Specialization in Political Science, Economics, Sociology*
 
 ## ADDITIONAL SKILLS
-|   |   |
-|---|---|
-|Analytical thinking|Hardworking|
-|Planning in attention to details research|Willingness to learn new things|
-|Communication skill (written & verbal)|Troubleshooting towards problem|
+|   						|					|
+|:---------------------------------------------:|:-------------------------------------:|
+|Analytical thinking				|Hardworking				|
+|Planning in attention to details research	|Willingness to learn new things	|
+|Communication skill (written & verbal)		|Troubleshooting towards problem	|
 
 
 ## CERTIFICATES
-|   |   |
-|---|---|
-|AutoCAD 2009 | Autodesk Revit Strucute-2012|
-|Spoken English B1 Level|
+|   						|					|
+|:---------------------------------------------:|:-------------------------------------:|
+|AutoCAD 2009					| Autodesk Revit Strucute-2012		|
+|Spoken English B1 Level			|					|
 
-
+---
 
 
 
